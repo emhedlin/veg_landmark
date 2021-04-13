@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='train/Gram BB - R1Z2 2019.jpg'>
+    <box top='29' left='337' width='799' height='763'>
+      <part name='bl' x='373' y='764'/>
+      <part name='br' x='1099' y='757'/>
+      <part name='tl' x='388' y='87'/>
+      <part name='tr' x='1060' y='64'/>
+    </box>
+  </image>
+  <image file='train/Gram BC - R1Z2 2019.jpg'>
+    <box top='73' left='412' width='755' height='705'>
+      <part name='bl' x='444' y='745'/>
+      <part name='br' x='1132' y='736'/>
+      <part name='tl' x='456' y='121'/>
+      <part name='tr' x='1079' y='106'/>
+    </box>
+  </image>
+  <image file='train/Gram CD - R1Z2 2019.jpg'>
+    <box top='62' left='365' width='761' height='723'>
+      <part name='bl' x='393' y='752'/>
+      <part name='br' x='1092' y='748'/>
+      <part name='tl' x='411' y='103'/>
+      <part name='tr' x='1053' y='93'/>
+    </box>
+  </image>
+  <image file='train/Gram DA - R1Z2 2019.jpg'>
+    <box top='63' left='354' width='794' height='730'>
+      <part name='bl' x='386' y='747'/>
+      <part name='br' x='1118' y='758'/>
+      <part name='tl' x='421' y='91'/>
+      <part name='tr' x='1073' y='101'/>
+    </box>
+  </image>
+  <image file='train/Gram DD - R1Z2 2019.jpg'>
+    <box top='118' left='417' width='649' height='651'>
+      <part name='bl' x='451' y='738'/>
+      <part name='br' x='1040' y='713'/>
+      <part name='tl' x='440' y='146'/>
+      <part name='tr' x='991' y='156'/>
+    </box>
+  </image>
+  <image file='train/Heath CD - R1Z2 2019.jpg'>
+    <box top='65' left='384' width='743' height='714'>
+      <part name='bl' x='424' y='745'/>
+      <part name='br' x='1096' y='713'/>
+      <part name='tl' x='415' y='126'/>
+      <part name='tr' x='1028' y='95'/>
+    </box>
+  </image>
+  <image file='train/Heath DD - R1Z2 2019.jpg'>
+    <box top='48' left='350' width='781' height='744'>
+      <part name='bl' x='387' y='742'/>
+      <part name='br' x='1093' y='756'/>
+      <part name='tl' x='423' y='108'/>
+      <part name='tr' x='1069' y='81'/>
+    </box>
+  </image>
+  <image file='train/Shrub AA - R1Z2 2019.jpg'>
+    <box top='52' left='363' width='731' height='728'>
+      <part name='bl' x='401' y='748'/>
+      <part name='br' x='1058' y='744'/>
+      <part name='tl' x='393' y='117'/>
+      <part name='tr' x='1033' y='82'/>
+    </box>
+  </image>
+  <image file='train/Shrub AB - R1Z2 2019.jpg'>
+    <box top='120' left='398' width='704' height='641'>
+      <part name='bl' x='427' y='719'/>
+      <part name='br' x='1066' y='728'/>
+      <part name='tl' x='460' y='149'/>
+      <part name='tr' x='1015' y='159'/>
+    </box>
+  </image>
+  <image file='train/Shrub BB - R1Z2 2019.jpg'>
+    <box top='59' left='134' width='721' height='714'>
+      <part name='bl' x='196' y='742'/>
+      <part name='br' x='823' y='713'/>
+      <part name='tl' x='167' y='105'/>
+      <part name='tr' x='805' y='93'/>
+    </box>
+  </image>
+  <image file='train/Shrub BC - R1Z2 2019.jpg'>
+    <box top='98' left='427' width='654' height='628'>
+      <part name='bl' x='455' y='687'/>
+      <part name='br' x='1050' y='699'/>
+      <part name='tl' x='478' y='129'/>
+      <part name='tr' x='1030' y='125'/>
+    </box>
+  </image>
+  <image file='train/Shrub CC - R1Z2 2019.jpg'>
+    <box top='68' left='410' width='711' height='690'>
+      <part name='bl' x='442' y='724'/>
+      <part name='br' x='1088' y='713'/>
+      <part name='tl' x='449' y='102'/>
+      <part name='tr' x='1048' y='98'/>
+    </box>
+  </image>
+  <image file='train/Shrub CD - R1Z2 2019.jpg'>
+    <box top='94' left='404' width='730' height='675'>
+      <part name='bl' x='439' y='738'/>
+      <part name='br' x='1097' y='733'/>
+      <part name='tl' x='455' y='140'/>
+      <part name='tr' x='1047' y='127'/>
+    </box>
+  </image>
+  <image file='train/Shrub DA - R1Z2 2019.jpg'>
+    <box top='14' left='104' width='762' height='764'>
+      <part name='bl' x='138' y='728'/>
+      <part name='br' x='820' y='744'/>
+      <part name='tl' x='148' y='48'/>
+      <part name='tr' x='831' y='65'/>
+    </box>
+  </image>
+  <image file='train/gram AA - R3Z3 2013.jpg'>
+    <box top='-6' left='74' width='426' height='404'>
+      <part name='bl' x='102' y='374'/>
+      <part name='br' x='475' y='371'/>
+      <part name='tl' x='121' y='2'/>
+      <part name='tr' x='472' y='21'/>
+    </box>
+  </image>
+  <image file='train/gram AA - R3Z4 2013.jpg'>
+    <box top='5' left='94' width='401' height='394'>
+      <part name='bl' x='118' y='381'/>
+      <part name='br' x='469' y='383'/>
+      <part name='tl' x='123' y='26'/>
+      <part name='tr' x='475' y='35'/>
+    </box>
+  </image>
+  <image file='train/gram AA - R3Z5 2013.jpg'>
+    <box top='0' left='102' width='385' height='401'>
+      <part name='bl' x='129' y='382'/>
+      <part name='br' x='463' y='368'/>
+      <part name='tl' x='129' y='19'/>
+      <part name='tr' x='465' y='45'/>
+    </box>
+  </image>
+  <image file='train/gram AB - R3Z4 2013.jpg'>
+    <box top='0' left='65' width='409' height='396'>
+      <part name='bl' x='88' y='374'/>
+      <part name='br' x='440' y='372'/>
+      <part name='tl' x='109' y='1'/>
+      <part name='tr' x='454' y='41'/>
+    </box>
+  </image>
+  <image file='train/gram AB - R3Z5 2013.jpg'>
+    <box top='0' left='105' width='401' height='401'>
+      <part name='bl' x='128' y='382'/>
+      <part name='br' x='471' y='376'/>
+      <part name='tl' x='129' y='21'/>
+      <part name='tr' x='483' y='40'/>
+    </box>
+  </image>
+  <image file='train/gram AB - R3Z6 2013.jpg'>
+    <box top='2' left='115' width='391' height='385'>
+      <part name='bl' x='135' y='361'/>
+      <part name='br' x='464' y='367'/>
+      <part name='tl' x='138' y='20'/>
+      <part name='tr' x='487' y='35'/>
+    </box>
+  </image>
+  <image file='train/gram AD - R3Z3 2013.jpg'>
+    <box top='9' left='118' width='377' height='384'>
+      <part name='bl' x='140' y='372'/>
+      <part name='br' x='475' y='358'/>
+      <part name='tl' x='143' y='28'/>
+      <part name='tr' x='465' y='43'/>
+    </box>
+  </image>
+  <image file='train/gram AD - R3Z4 2013.jpg'>
+    <box top='0' left='98' width='407' height='400'>
+      <part name='bl' x='120' y='372'/>
+      <part name='br' x='477' y='380'/>
+      <part name='tl' x='139' y='20'/>
+      <part name='tr' x='479' y='37'/>
+    </box>
+  </image>
+  <image file='train/gram BB - R3Z3 2013.jpg'>
+    <box top='8' left='73' width='398' height='392'>
+      <part name='bl' x='97' y='356'/>
+      <part name='br' x='436' y='375'/>
+      <part name='tl' x='120' y='29'/>
+      <part name='tr' x='447' y='42'/>
+    </box>
+  </image>
+  <image file='train/gram BB - R3Z4 2013.jpg'>
+    <box top='21' left='103' width='412' height='379'>
+      <part name='bl' x='129' y='388'/>
+      <part name='br' x='487' y='382'/>
+      <part name='tl' x='141' y='39'/>
+      <part name='tr' x='471' y='46'/>
+    </box>
+  </image>
+  <image file='train/gram BB - R3Z5 2013.jpg'>
+    <box top='16' left='102' width='392' height='386'>
+      <part name='bl' x='127' y='380'/>
+      <part name='br' x='459' y='382'/>
+      <part name='tl' x='132' y='38'/>
+      <part name='tr' x='470' y='49'/>
+    </box>
+  </image>
+  <image file='train/gram BC - R3Z3 2013.jpg'>
+    <box top='19' left='105' width='381' height='373'>
+      <part name='bl' x='134' y='370'/>
+      <part name='br' x='454' y='368'/>
+      <part name='tl' x='126' y='43'/>
+      <part name='tr' x='460' y='50'/>
+    </box>
+  </image>
+  <image file='train/gram BC - R3Z4 2013.jpg'>
+    <box top='1' left='110' width='386' height='384'>
+      <part name='bl' x='130' y='361'/>
+      <part name='br' x='469' y='364'/>
+      <part name='tl' x='138' y='19'/>
+      <part name='tr' x='475' y='32'/>
+    </box>
+  </image>
+  <image file='train/gram BC - R3Z5 2013.jpg'>
+    <box top='14' left='107' width='366' height='368'>
+      <part name='bl' x='129' y='362'/>
+      <part name='br' x='450' y='357'/>
+      <part name='tl' x='131' y='36'/>
+      <part name='tr' x='451' y='40'/>
+    </box>
+  </image>
+  <image file='train/gram CC - R3Z3 2013.jpg'>
+    <box top='7' left='137' width='380' height='373'>
+      <part name='bl' x='160' y='356'/>
+      <part name='br' x='485' y='357'/>
+      <part name='tl' x='156' y='27'/>
+      <part name='tr' x='486' y='36'/>
+    </box>
+  </image>
+  <image file='train/gram CC - R3Z4 2013.jpg'>
+    <box top='1' left='98' width='401' height='397'>
+      <part name='bl' x='122' y='370'/>
+      <part name='br' x='470' y='373'/>
+      <part name='tl' x='128' y='20'/>
+      <part name='tr' x='473' y='30'/>
+    </box>
+  </image>
+  <image file='train/gram CC - R3Z5 2013.jpg'>
+    <box top='0' left='123' width='387' height='392'>
+      <part name='bl' x='141' y='372'/>
+      <part name='br' x='478' y='370'/>
+      <part name='tl' x='153' y='19'/>
+      <part name='tr' x='484' y='44'/>
+    </box>
+  </image>
+  <image file='train/gram CD - R3Z3 2013.jpg'>
+    <box top='8' left='153' width='383' height='381'>
+      <part name='bl' x='177' y='368'/>
+      <part name='br' x='502' y='368'/>
+      <part name='tl' x='180' y='27'/>
+      <part name='tr' x='512' y='43'/>
+    </box>
+  </image>
+  <image file='train/gram CD - R3Z4 2013.jpg'>
+    <box top='6' left='110' width='396' height='390'>
+      <part name='bl' x='132' y='373'/>
+      <part name='br' x='482' y='357'/>
+      <part name='tl' x='133' y='27'/>
+      <part name='tr' x='464' y='27'/>
+    </box>
+  </image>
+  <image file='train/gram CD - R3Z5 2013.jpg'>
+    <box top='7' left='88' width='394' height='390'>
+      <part name='bl' x='112' y='369'/>
+      <part name='br' x='451' y='375'/>
+      <part name='tl' x='125' y='24'/>
+      <part name='tr' x='458' y='43'/>
+    </box>
+  </image>
+  <image file='train/gram DD - R3Z3 2013.jpg'>
+    <box top='0' left='108' width='391' height='379'>
+      <part name='bl' x='134' y='361'/>
+      <part name='br' x='466' y='352'/>
+      <part name='tl' x='137' y='4'/>
+      <part name='tr' x='475' y='41'/>
+    </box>
+  </image>
+  <image file='train/gram DD - R3Z4 2013.jpg'>
+    <box top='0' left='108' width='388' height='387'>
+      <part name='bl' x='128' y='355'/>
+      <part name='br' x='455' y='368'/>
+      <part name='tl' x='134' y='19'/>
+      <part name='tr' x='477' y='33'/>
+    </box>
+  </image>
+  <image file='train/gram DD - R3Z6 2013.jpg'>
+    <box top='12' left='105' width='383' height='384'>
+      <part name='bl' x='134' y='380'/>
+      <part name='br' x='464' y='364'/>
+      <part name='tl' x='127' y='32'/>
+      <part name='tr' x='458' y='39'/>
+    </box>
+  </image>
+  <image file='train/heath AA - R3Z4 2013.jpg'>
+    <box top='1' left='110' width='391' height='391'>
+      <part name='bl' x='131' y='370'/>
+      <part name='br' x='467' y='372'/>
+      <part name='tl' x='135' y='20'/>
+      <part name='tr' x='476' y='36'/>
+    </box>
+  </image>
+  <image file='train/heath AA - R3Z5 2013.jpg'>
+    <box top='0' left='110' width='398' height='396'>
+      <part name='bl' x='132' y='374'/>
+      <part name='br' x='476' y='370'/>
+      <part name='tl' x='132' y='17'/>
+      <part name='tr' x='484' y='32'/>
+    </box>
+  </image>
+  <image file='train/heath AA - R3Z6 2013.jpg'>
+    <box top='4' left='88' width='380' height='380'>
+      <part name='bl' x='128' y='362'/>
+      <part name='br' x='447' y='342'/>
+      <part name='tl' x='109' y='24'/>
+      <part name='tr' x='442' y='26'/>
+    </box>
+  </image>
+  <image file='train/heath AB - R3Z3 2013.jpg'>
+    <box top='15' left='81' width='386' height='382'>
+      <part name='bl' x='104' y='366'/>
+      <part name='br' x='442' y='376'/>
+      <part name='tl' x='117' y='34'/>
+      <part name='tr' x='442' y='46'/>
+    </box>
+  </image>
+  <image file='train/heath AB - R3Z5 2013.jpg'>
+    <box top='9' left='92' width='384' height='382'>
+      <part name='bl' x='113' y='371'/>
+      <part name='br' x='454' y='368'/>
+      <part name='tl' x='117' y='28'/>
+      <part name='tr' x='454' y='38'/>
+    </box>
+  </image>
+  <image file='train/heath AD - R3Z4 2013.jpg'>
+    <box top='6' left='106' width='386' height='387'>
+      <part name='bl' x='129' y='371'/>
+      <part name='br' x='467' y='368'/>
+      <part name='tl' x='130' y='27'/>
+      <part name='tr' x='468' y='33'/>
+    </box>
+  </image>
+  <image file='train/heath AD - R3Z5 2013.jpg'>
+    <box top='6' left='96' width='399' height='392'>
+      <part name='bl' x='119' y='370'/>
+      <part name='br' x='470' y='377'/>
+      <part name='tl' x='130' y='24'/>
+      <part name='tr' x='471' y='28'/>
+    </box>
+  </image>
+  <image file='train/heath AD - R3Z6 2013.jpg'>
+    <box top='6' left='119' width='377' height='378'>
+      <part name='bl' x='139' y='363'/>
+      <part name='br' x='474' y='350'/>
+      <part name='tl' x='151' y='22'/>
+      <part name='tr' x='460' y='44'/>
+    </box>
+  </image>
+  <image file='train/heath BB - R3Z3 2013.jpg'>
+    <box top='0' left='102' width='403' height='396'>
+      <part name='bl' x='121' y='363'/>
+      <part name='br' x='473' y='377'/>
+      <part name='tl' x='145' y='15'/>
+      <part name='tr' x='482' y='38'/>
+    </box>
+  </image>
+  <image file='train/heath BB - R3Z4 2013.jpg'>
+    <box top='10' left='94' width='392' height='384'>
+      <part name='bl' x='126' y='373'/>
+      <part name='br' x='453' y='368'/>
+      <part name='tl' x='117' y='29'/>
+      <part name='tr' x='462' y='40'/>
+    </box>
+  </image>
+  <image file='train/heath BB - R3Z5 2013.jpg'>
+    <box top='0' left='77' width='405' height='384'>
+      <part name='bl' x='108' y='366'/>
+      <part name='br' x='447' y='365'/>
+      <part name='tl' x='99' y='11'/>
+      <part name='tr' x='461' y='21'/>
+    </box>
+  </image>
+  <image file='train/heath BB - R3Z6 2013.jpg'>
+    <box top='0' left='105' width='406' height='400'>
+      <part name='bl' x='130' y='381'/>
+      <part name='br' x='486' y='370'/>
+      <part name='tl' x='140' y='15'/>
+      <part name='tr' x='473' y='37'/>
+    </box>
+  </image>
+  <image file='train/heath BC - R3Z3 2013.jpg'>
+    <box top='11' left='120' width='375' height='374'>
+      <part name='bl' x='138' y='353'/>
+      <part name='br' x='470' y='363'/>
+      <part name='tl' x='150' y='30'/>
+      <part name='tr' x='471' y='35'/>
+    </box>
+  </image>
+  <image file='train/heath BC - R3Z5 2013.jpg'>
+    <box top='25' left='126' width='358' height='358'>
+      <part name='bl' x='144' y='360'/>
+      <part name='br' x='452' y='363'/>
+      <part name='tl' x='152' y='42'/>
+      <part name='tr' x='464' y='59'/>
+    </box>
+  </image>
+  <image file='train/heath BC - R3Z6 2013.jpg'>
+    <box top='6' left='119' width='382' height='383'>
+      <part name='bl' x='139' y='361'/>
+      <part name='br' x='477' y='366'/>
+      <part name='tl' x='153' y='26'/>
+      <part name='tr' x='479' y='36'/>
+    </box>
+  </image>
+  <image file='train/heath CC - R3Z3 2013.jpg'>
+    <box top='2' left='128' width='392' height='380'>
+      <part name='bl' x='150' y='350'/>
+      <part name='br' x='500' y='361'/>
+      <part name='tl' x='162' y='12'/>
+      <part name='tr' x='496' y='22'/>
+    </box>
+  </image>
+  <image file='train/heath CC - R3Z4 2013.jpg'>
+    <box top='0' left='96' width='396' height='401'>
+      <part name='bl' x='122' y='384'/>
+      <part name='br' x='467' y='376'/>
+      <part name='tl' x='121' y='24'/>
+      <part name='tr' x='470' y='40'/>
+    </box>
+  </image>
+  <image file='train/heath CC - R3Z5 2013.jpg'>
+    <box top='4' left='111' width='398' height='389'>
+      <part name='bl' x='131' y='369'/>
+      <part name='br' x='483' y='371'/>
+      <part name='tl' x='136' y='27'/>
+      <part name='tr' x='477' y='23'/>
+    </box>
+  </image>
+  <image file='train/heath CD - R3Z3 2013.jpg'>
+    <box top='7' left='125' width='382' height='378'>
+      <part name='bl' x='146' y='356'/>
+      <part name='br' x='477' y='367'/>
+      <part name='tl' x='150' y='23'/>
+      <part name='tr' x='483' y='29'/>
+    </box>
+  </image>
+  <image file='train/heath CD - R3Z4 2013.jpg'>
+    <box top='17' left='104' width='381' height='378'>
+      <part name='bl' x='126' y='368'/>
+      <part name='br' x='460' y='373'/>
+      <part name='tl' x='123' y='38'/>
+      <part name='tr' x='458' y='35'/>
+    </box>
+  </image>
+  <image file='train/heath CD - R3Z5 2013.jpg'>
+    <box top='12' left='111' width='380' height='383'>
+      <part name='bl' x='135' y='372'/>
+      <part name='br' x='473' y='359'/>
+      <part name='tl' x='137' y='33'/>
+      <part name='tr' x='461' y='39'/>
+    </box>
+  </image>
+  <image file='train/heath CD - R3Z6 2013.jpg'>
+    <box top='0' left='116' width='384' height='381'>
+      <part name='bl' x='135' y='357'/>
+      <part name='br' x='470' y='363'/>
+      <part name='tl' x='144' y='15'/>
+      <part name='tr' x='478' y='32'/>
+    </box>
+  </image>
+  <image file='train/heath DD - R3Z3 2013.jpg'>
+    <box top='2' left='110' width='384' height='386'>
+      <part name='bl' x='129' y='366'/>
+      <part name='br' x='466' y='366'/>
+      <part name='tl' x='147' y='14'/>
+      <part name='tr' x='473' y='48'/>
+    </box>
+  </image>
+  <image file='train/heath DD - R3Z4 2013.jpg'>
+    <box top='3' left='89' width='393' height='389'>
+      <part name='bl' x='112' y='368'/>
+      <part name='br' x='457' y='365'/>
+      <part name='tl' x='125' y='21'/>
+      <part name='tr' x='456' y='35'/>
+    </box>
+  </image>
+  <image file='train/heath DD - R3Z5 2013.jpg'>
+    <box top='14' left='122' width='391' height='383'>
+      <part name='bl' x='142' y='374'/>
+      <part name='br' x='489' y='372'/>
+      <part name='tl' x='152' y='34'/>
+      <part name='tr' x='483' y='39'/>
+    </box>
+  </image>
+  <image file='train/shrub AA - R3Z3 2013.jpg'>
+    <box top='12' left='139' width='385' height='378'>
+      <part name='bl' x='160' y='365'/>
+      <part name='br' x='501' y='370'/>
+      <part name='tl' x='163' y='30'/>
+      <part name='tr' x='495' y='30'/>
+    </box>
+  </image>
+  <image file='train/shrub AA - R3Z4 2013.jpg'>
+    <box top='13' left='112' width='381' height='381'>
+      <part name='bl' x='141' y='373'/>
+      <part name='br' x='460' y='368'/>
+      <part name='tl' x='134' y='36'/>
+      <part name='tr' x='472' y='46'/>
+    </box>
+  </image>
+  <image file='train/shrub AB - R3Z3 2013.jpg'>
+    <box top='12' left='83' width='374' height='388'>
+      <part name='bl' x='108' y='390'/>
+      <part name='br' x='439' y='361'/>
+      <part name='tl' x='105' y='35'/>
+      <part name='tr' x='428' y='48'/>
+    </box>
+  </image>
+  <image file='train/shrub AB - R3Z4 2013.jpg'>
+    <box top='0' left='72' width='403' height='402'>
+      <part name='bl' x='93' y='372'/>
+      <part name='br' x='454' y='389'/>
+      <part name='tl' x='109' y='35'/>
+      <part name='tr' x='445' y='24'/>
+    </box>
+  </image>
+  <image file='train/shrub AB - R3Z5 2013.jpg'>
+    <box top='8' left='105' width='390' height='391'>
+      <part name='bl' x='126' y='358'/>
+      <part name='br' x='467' y='377'/>
+      <part name='tl' x='143' y='28'/>
+      <part name='tr' x='474' y='34'/>
+    </box>
+  </image>
+  <image file='train/shrub AB - R3Z6 2013.jpg'>
+    <box top='15' left='134' width='388' height='384'>
+      <part name='bl' x='157' y='377'/>
+      <part name='br' x='501' y='377'/>
+      <part name='tl' x='159' y='48'/>
+      <part name='tr' x='485' y='39'/>
+    </box>
+  </image>
+  <image file='train/shrub AD - R3Z3 2013.jpg'>
+    <box top='1' left='100' width='393' height='388'>
+      <part name='bl' x='117' y='364'/>
+      <part name='br' x='464' y='370'/>
+      <part name='tl' x='131' y='20'/>
+      <part name='tr' x='471' y='31'/>
+    </box>
+  </image>
+  <image file='train/shrub AD - R3Z4 2013.jpg'>
+    <box top='11' left='111' width='391' height='390'>
+      <part name='bl' x='129' y='380'/>
+      <part name='br' x='472' y='382'/>
+      <part name='tl' x='134' y='32'/>
+      <part name='tr' x='481' y='47'/>
+    </box>
+  </image>
+  <image file='train/shrub AD - R3Z5 2013.jpg'>
+    <box top='4' left='95' width='386' height='388'>
+      <part name='bl' x='115' y='373'/>
+      <part name='br' x='454' y='368'/>
+      <part name='tl' x='118' y='25'/>
+      <part name='tr' x='458' y='34'/>
+    </box>
+  </image>
+  <image file='train/shrub AD - R3Z6 2013.jpg'>
+    <box top='7' left='110' width='377' height='379'>
+      <part name='bl' x='130' y='366'/>
+      <part name='br' x='462' y='365'/>
+      <part name='tl' x='133' y='27'/>
+      <part name='tr' x='468' y='36'/>
+    </box>
+  </image>
+  <image file='train/shrub BB - R3Z3 2013.jpg'>
+    <box top='19' left='115' width='355' height='360'>
+      <part name='bl' x='134' y='352'/>
+      <part name='br' x='438' y='359'/>
+      <part name='tl' x='148' y='36'/>
+      <part name='tr' x='455' y='64'/>
+    </box>
+  </image>
+  <image file='train/shrub BB - R3Z4 2013.jpg'>
+    <box top='1' left='116' width='392' height='399'>
+      <part name='bl' x='139' y='381'/>
+      <part name='br' x='485' y='367'/>
+      <part name='tl' x='139' y='21'/>
+      <part name='tr' x='481' y='33'/>
+    </box>
+  </image>
+  <image file='train/shrub BB - R3Z5 2013.jpg'>
+    <box top='0' left='85' width='394' height='392'>
+      <part name='bl' x='105' y='370'/>
+      <part name='br' x='458' y='360'/>
+      <part name='tl' x='121' y='19'/>
+      <part name='tr' x='444' y='36'/>
+    </box>
+  </image>
+  <image file='train/shrub BB - R3Z6 2013.jpg'>
+    <box top='11' left='123' width='375' height='374'>
+      <part name='bl' x='141' y='363'/>
+      <part name='br' x='464' y='364'/>
+      <part name='tl' x='145' y='29'/>
+      <part name='tr' x='477' y='43'/>
+    </box>
+  </image>
+  <image file='train/shrub BC - R3Z3 2013.jpg'>
+    <box top='11' left='100' width='402' height='383'>
+      <part name='bl' x='121' y='361'/>
+      <part name='br' x='478' y='372'/>
+      <part name='tl' x='142' y='36'/>
+      <part name='tr' x='460' y='36'/>
+    </box>
+  </image>
+  <image file='train/shrub BC - R3Z4 2013.jpg'>
+    <box top='8' left='94' width='396' height='386'>
+      <part name='bl' x='120' y='366'/>
+      <part name='br' x='466' y='371'/>
+      <part name='tl' x='134' y='29'/>
+      <part name='tr' x='457' y='35'/>
+    </box>
+  </image>
+  <image file='train/shrub BC - R3Z5 2013.jpg'>
+    <box top='0' left='81' width='392' height='391'>
+      <part name='bl' x='102' y='357'/>
+      <part name='br' x='437' y='370'/>
+      <part name='tl' x='109' y='20'/>
+      <part name='tr' x='452' y='29'/>
+    </box>
+  </image>
+  <image file='train/shrub CC - R3Z3 2013.jpg'>
+    <box top='4' left='106' width='415' height='397'>
+      <part name='bl' x='130' y='376'/>
+      <part name='br' x='499' y='384'/>
+      <part name='tl' x='162' y='26'/>
+      <part name='tr' x='489' y='44'/>
+    </box>
+  </image>
+  <image file='train/shrub CC - R3Z5 2013.jpg'>
+    <box top='0' left='87' width='415' height='401'>
+      <part name='bl' x='109' y='375'/>
+      <part name='br' x='476' y='392'/>
+      <part name='tl' x='122' y='21'/>
+      <part name='tr' x='480' y='20'/>
+    </box>
+  </image>
+  <image file='train/shrub CC - R3Z6 2013.jpg'>
+    <box top='1' left='96' width='384' height='384'>
+      <part name='bl' x='117' y='348'/>
+      <part name='br' x='442' y='365'/>
+      <part name='tl' x='131' y='20'/>
+      <part name='tr' x='460' y='36'/>
+    </box>
+  </image>
+  <image file='train/shrub CD - R3Z3 2013.jpg'>
+    <box top='2' left='113' width='412' height='398'>
+      <part name='bl' x='137' y='383'/>
+      <part name='br' x='506' y='380'/>
+      <part name='tl' x='157' y='17'/>
+      <part name='tr' x='496' y='35'/>
+    </box>
+  </image>
+  <image file='train/shrub CD - R3Z4 2013.jpg'>
+    <box top='1' left='116' width='391' height='386'>
+      <part name='bl' x='138' y='364'/>
+      <part name='br' x='485' y='362'/>
+      <part name='tl' x='147' y='18'/>
+      <part name='tr' x='479' y='31'/>
+    </box>
+  </image>
+  <image file='train/shrub CD - R3Z5 2013.jpg'>
+    <box top='9' left='106' width='391' height='386'>
+      <part name='bl' x='132' y='370'/>
+      <part name='br' x='473' y='367'/>
+      <part name='tl' x='131' y='31'/>
+      <part name='tr' x='466' y='34'/>
+    </box>
+  </image>
+  <image file='train/shrub CD - R3Z6 2013.jpg'>
+    <box top='13' left='129' width='380' height='372'>
+      <part name='bl' x='150' y='367'/>
+      <part name='br' x='487' y='361'/>
+      <part name='tl' x='150' y='33'/>
+      <part name='tr' x='479' y='29'/>
+    </box>
+  </image>
+  <image file='train/shrub DD - R3Z4 2013.jpg'>
+    <box top='1' left='102' width='389' height='385'>
+      <part name='bl' x='122' y='365'/>
+      <part name='br' x='468' y='357'/>
+      <part name='tl' x='128' y='18'/>
+      <part name='tr' x='464' y='28'/>
+    </box>
+  </image>
+  <image file='train/shrub DD - R3Z5 2013.jpg'>
+    <box top='15' left='112' width='383' height='384'>
+      <part name='bl' x='136' y='382'/>
+      <part name='br' x='475' y='371'/>
+      <part name='tl' x='138' y='34'/>
+      <part name='tr' x='472' y='42'/>
+    </box>
+  </image>
+  <image file='train/shrub DD - R3Z6 2013.jpg'>
+    <box top='0' left='105' width='381' height='383'>
+      <part name='bl' x='126' y='361'/>
+      <part name='br' x='460' y='357'/>
+      <part name='tl' x='138' y='20'/>
+      <part name='tr' x='465' y='40'/>
+    </box>
+  </image>
+</images>
+</dataset>
