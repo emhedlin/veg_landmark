@@ -1,15 +1,21 @@
 # Implementation
 
-Adopted from ml-morph.
+Adopted from [ml-morph](https://github.com/agporto/ml-morph).
 
-Use this tool to detect corners of the veg quadrats, rotate the image based on those detections to straighten the image, and crop to the inside of the quadrat. Currently increasing model accuracy by annotating additional images.
+The motivation behind this tool is to automate the process of straightening and cropping vegetation images captured in the calving grounds each year. 
+General workflow will include:
+ * the automatic detection of quadrat corners,
+ * use corner locations to straighten the image relative to the quadrat, 
+ * use the corner locations to crop out the interior of the quadrat for further processing.
 
 <p float="center">
   <img src="logo.png" />
 </p>
 
+### Status
+Currently adding to the training set.
 
-## Process
+## Instructions
 
 1. copy all images into ```img_small/```
 
