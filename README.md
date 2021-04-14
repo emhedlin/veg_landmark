@@ -20,7 +20,8 @@ Currently adding to the training set.
 1. copy all images into ```img_small/```
 
 2. resize images according to specified factor (width/n), and rotate all portrait images. <br>
-`python3 src/image-resize.py -i img_small -n 5`
+`python3 src/image-resize.py -i img_small -n 1000`
+where i = directory of images, and n = the resulting width of the resized image
 
 3. split the image data into train/test <br>
 `python3 src/preprocessing.py -i img_small`

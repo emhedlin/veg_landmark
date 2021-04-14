@@ -6,7 +6,7 @@ wd = os.getcwd()
 
 parser = argparse.ArgumentParser(description="resize and rotate images in directory")
 parser.add_argument('-i','--input_dir', type=str, metavar='',required=True,help='folder containing the images you want to resize')
-parser.add_argument('-n', '--resize', type=int, metavar='',required=True, help='resizing factor')
+parser.add_argument('-n', '--resize', type=int, metavar='',required=True, help='how wide should the resulting image be (pixels)')
 args = parser.parse_args()
 
 
@@ -28,7 +28,11 @@ for i in range(0, len(os.listdir(f))):
 for i in range(0, len(os.listdir(f))):
   f_img = f+os.listdir(f)[i]
   im = Image.open(f_img)
+  # what do we need to multiple current image width by to get our specified width
   width, height = im.size
+  scale_factor = args.resize/width
   if width > 800:
-      im_rs = im.resize((int(width/args.resize), int(height/args.resize)))
+      im_rs = im.resize((int(width*scale_factor), int(height*scale_factor)))
       im_rs.save(f_img)
+
+

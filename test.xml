@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='img_small2/Gram AB - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Gram BB - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Gram BC - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Gram CD - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Gram DA - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Gram DD - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Heath AB - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Heath BC - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Heath CC - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Heath CD - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Heath DD - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub AA - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub AB - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub BB - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub BC - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub CC - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub CD - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub DA - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/Shrub DD - R1Z2 2019.JPG'>
+  </image>
+  <image file='img_small2/gram AA - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AA - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AA - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AA - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AB - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AB - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AB - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AB - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram AD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BB - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BB - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BB - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BB - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BC - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BC - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BC - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram BC - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CC - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CC - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CC - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CC - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram CD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/gram DD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/gram DD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/gram DD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/gram DD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AA - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AA - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AA - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AA - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AB - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AB - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AB - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AB - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath AD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BB - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BB - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BB - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BB - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BC - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BC - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BC - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath BC - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CC - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CC - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CC - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CC - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath CD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/heath DD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/heath DD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/heath DD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/heath DD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AA - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AA - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AA - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AA - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AB - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AB - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AB - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AB - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub AD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BB - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BB - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BB - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BB - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BC - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BC - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BC - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub BC - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CC - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CC - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CC - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CC - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CD - R3Z3 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub CD - R3Z6 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub DD - R3Z4 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub DD - R3Z5 2013.JPG'>
+  </image>
+  <image file='img_small2/shrub DD - R3Z6 2013.JPG'>
+  </image>
+</images>
+</dataset>
