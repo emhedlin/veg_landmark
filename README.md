@@ -2,7 +2,7 @@
 
 Adopted from ml-morph.
 
-Use this tool to detect corners of the veg quadrats, rotate the image based on those detections to straighten the image, and crop to the inside of the quadrat. Heavy WIP currently. Model trains, but detection accuracy needs to improve. Current status is annotating additional images.
+Use this tool to detect corners of the veg quadrats, rotate the image based on those detections to straighten the image, and crop to the inside of the quadrat. Currently increasing model accuracy by annotating additional images.
 
 ## Process
 
